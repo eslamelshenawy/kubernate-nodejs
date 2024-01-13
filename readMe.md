@@ -23,6 +23,5 @@ kubectl delete services --all
 minikube service nodeapp-service
 ```
 
- 
 http://192.168.49.2:31110/ready
 
